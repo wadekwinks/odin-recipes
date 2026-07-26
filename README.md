@@ -1,1 +1,1 @@
-# odin-recipes This will be my Frist Project in The Odin Project. This project is about simple recipe website. I will be demonstrating in this project the skills I learned in studying the Basics of HTML. 
+# odin-recipes 
